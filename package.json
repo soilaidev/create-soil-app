@@ -1,0 +1,40 @@
+{
+  "name": "create-soil-app",
+  "version": "0.0.1",
+  "description": "Create a Soil Next.js app to build out your code fast",
+  "author": "Daniel Murawsky",
+  "homepage": "https://soilai.dev",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmurawsky/create-soil-app.git"
+  },
+  "bugs": "https://github.com/dmurawsky/create-soil-app/issues",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "ai",
+    "no-code",
+    "soil"
+  ],
+  "files": [
+    "index.js",
+    "createSoilApp.js"
+  ],
+  "bin": {
+    "create-soil-app": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "commander": "^12.1.0"
+  },
+  "prettier": {
+    "printWidth": 120
+  },
+  "devDependencies": {
+    "@types/node": "^22.4.0"
+  }
+}
