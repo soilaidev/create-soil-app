@@ -6,9 +6,9 @@
   "homepage": "https://soilai.dev",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dmurawsky/create-soil-app.git"
+    "url": "git+https://github.com/soilaidev/create-soil-app.git"
   },
-  "bugs": "https://github.com/dmurawsky/create-soil-app/issues",
+  "bugs": "https://github.com/soilaidev/create-soil-app/issues",
   "license": "MIT",
   "engines": {
     "node": ">=18"
